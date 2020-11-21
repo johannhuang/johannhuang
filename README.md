@@ -22,5 +22,7 @@ Highlighted Websites
 - <https://presentations.johannhuang.com/>
 - <https://articles.johannhuang.com/>
 - <https://blog.johannhuang.com/>
+- <https://catalogues.johannhuang.com/>
+- <https://catalogues.german.johannhuang.com/>
 - <https://dictionaries.johannhuang.com/>
 - <https://dictionary.johannhuang.com/>
