@@ -12,7 +12,7 @@ Highlighted Libraries
     - [GitHub: Qia-Web-Widgets--Quickstart](https://github.com/johannhuang/Qia-Web-Widgets--Quickstart)
     - [GitHub: Qia-Web-Widgets--Quickstart--React](https://github.com/johannhuang/Qia-Web-Widgets--Quickstart--React)
     - [GitHub: Qia-Web-Widgets--Quickstart--Angular](https://github.com/johannhuang/Qia-Web-Widgets--Quickstart--Angular)
-- @johannhuang / Number Converter
+- QiaJSLib - Number Converter
     - [NPMJS: `npm i @johannhuang/number-converter`](https://www.npmjs.com/package/@johannhuang/number-converter)
     - [GitHub: QiaJSLib--Number-Converter](https://github.com/johannhuang/QiaJSLib--Number-Converter)
 
