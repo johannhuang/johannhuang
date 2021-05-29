@@ -1,6 +1,6 @@
 Hej 👋 there, I'm Johann!
 
-- Website: <http://www.johannhuang.com>
+- Website: <https://www.johannhuang.com>
 - Twitter: <https://twitter.com/johannhuang_com>
 
 ---
