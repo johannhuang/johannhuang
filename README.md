@@ -5,7 +5,7 @@ Hej 👋 there, I'm Johann!
 
 ---
 
-Highlighted Libraries
+Highlighted Projects
 
 - Qia Web Widgets
 	- [NPMJS: `npm i qia-widgets`](https://www.npmjs.com/package/qia-widgets)
