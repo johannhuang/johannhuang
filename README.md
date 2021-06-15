@@ -15,10 +15,13 @@ Highlighted Projects
 
 ---
 
-Qia Softwares
+Qia Software
 
 - Qia Audio Player
+	- [Qia Audio Player - Documents](https://qiasoft-documents.johannhuang.com/qia-audio-player/)
 	- [GitHub: Qia-Audio-Player-Codecs](https://github.com/johannhuang/Qia-Audio-Player-Codecs)
+- Qia mdx Reader
+	- [Qia mdx Reader - Documents](https://qiasoft-documents.johannhuang.com/qia-mdx-reader/)
 - QiaJSLib - Number Converter
 	- [NPMJS: `npm i @johannhuang/number-converter`](https://www.npmjs.com/package/@johannhuang/number-converter)
 	- [GitHub: QiaJSLib--Number-Converter](https://github.com/johannhuang/QiaJSLib--Number-Converter)
