@@ -30,8 +30,6 @@ GitHub Hosted Websites
 
 - <https://dictionaries.johannhuang.com/>
 	- [GitHub: dictionaries.johannhuang.com](https://github.com/johannhuang/dictionaries.johannhuang.com)
-- <https://github.johannhuang.com/>
-	- [GitHub: johannhuang.github.io](https://github.com/johannhuang/johannhuang.github.io)
 
 Archived Projects
 
