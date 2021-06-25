@@ -5,26 +5,26 @@ Hej 👋 there, I'm Johann!
 
 ---
 
-Highlighted Projects
-
-- Qia Web Widgets
-	- [NPMJS: `npm i qia-widgets`](https://www.npmjs.com/package/qia-widgets)
-	- [GitHub: Qia-Web-Widgets--Quickstart](https://github.com/johannhuang/Qia-Web-Widgets--Quickstart)
-	- [GitHub: Qia-Web-Widgets--Quickstart--React](https://github.com/johannhuang/Qia-Web-Widgets--Quickstart--React)
-	- [GitHub: Qia-Web-Widgets--Quickstart--Angular](https://github.com/johannhuang/Qia-Web-Widgets--Quickstart--Angular)
-
----
-
-Qia Software
+Applications
 
 - Qia Audio Player
 	- [QiaSoft-Documents: Qia Audio Player](https://qiasoft-documents.johannhuang.com/qia-audio-player/)
 	- [GitHub: Qia-Audio-Player-Codecs](https://github.com/johannhuang/Qia-Audio-Player-Codecs)
 - Qia mdx Reader
 	- [QiaSoft-Documents: Qia mdx Reader](https://qiasoft-documents.johannhuang.com/qia-mdx-reader/)
+
+Libraries
+
+- Qia Web Widgets
+	- [NPMJS: `npm i qia-widgets`](https://www.npmjs.com/package/qia-widgets)
+	- [GitHub: Qia-Web-Widgets--Quickstart](https://github.com/johannhuang/Qia-Web-Widgets--Quickstart)
+	- [GitHub: Qia-Web-Widgets--Quickstart--React](https://github.com/johannhuang/Qia-Web-Widgets--Quickstart--React)
+	- [GitHub: Qia-Web-Widgets--Quickstart--Angular](https://github.com/johannhuang/Qia-Web-Widgets--Quickstart--Angular)
 - QiaJSLib - Number Converter
 	- [NPMJS: `npm i @johannhuang/number-converter`](https://www.npmjs.com/package/@johannhuang/number-converter)
 	- [GitHub: QiaJSLib--Number-Converter](https://github.com/johannhuang/QiaJSLib--Number-Converter)
+
+---
 
 GitHub Hosted Websites
 
