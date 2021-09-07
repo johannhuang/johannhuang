@@ -15,6 +15,10 @@ Applications
 
 Libraries
 
+- Qia Web Browser Libraries
+	- [NPMJS: `npm i qia-browser-libraries`](https://www.npmjs.com/package/qia-browser-libraries)
+	- [GitHub: Qia-Web-Browser-Libraries - as Documentation as well as Quickstart](https://github.com/johannhuang/Qia-Web-Browser-Libraries)
+	- [GitHub: Qia-Web-Browser-Libraries--Quickstart--Angular](https://github.com/johannhuang/Qia-Web-Browser-Libraries--Quickstart--Angular)
 - Qia Web Widgets
 	- [NPMJS: `npm i qia-widgets`](https://www.npmjs.com/package/qia-widgets)
 	- [GitHub: Qia-Web-Widgets--Quickstart](https://github.com/johannhuang/Qia-Web-Widgets--Quickstart)
