@@ -5,14 +5,6 @@ Hej 👋 there, I'm Johann!
 
 ---
 
-Applications
-
-- Qia Audio Player
-	- [QiaSoft-Documents: Qia Audio Player](https://qiasoft-documents.johannhuang.com/qia-audio-player/)
-	- [GitHub: Qia-Audio-Player-Codecs](https://github.com/johannhuang/Qia-Audio-Player-Codecs)
-- Qia mdx Reader
-	- [QiaSoft-Documents: Qia mdx Reader](https://qiasoft-documents.johannhuang.com/qia-mdx-reader/)
-
 Libraries
 
 - Qia Web Browser Libraries
@@ -28,6 +20,14 @@ Libraries
 - QiaJSLib - Number Converter
 	- [NPMJS: `npm i @johannhuang/number-converter`](https://www.npmjs.com/package/@johannhuang/number-converter)
 	- [GitHub: QiaJSLib--Number-Converter](https://github.com/johannhuang/QiaJSLib--Number-Converter)
+
+Applications
+
+- Qia Audio Player
+	- [QiaSoft-Documents: Qia Audio Player](https://qiasoft-documents.johannhuang.com/qia-audio-player/)
+	- [GitHub: Qia-Audio-Player-Codecs](https://github.com/johannhuang/Qia-Audio-Player-Codecs)
+- Qia mdx Reader
+	- [QiaSoft-Documents: Qia mdx Reader](https://qiasoft-documents.johannhuang.com/qia-mdx-reader/)
 
 ---
 
