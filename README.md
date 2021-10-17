@@ -8,7 +8,7 @@ Hej 👋 there, I'm Johann!
 Libraries
 
 - Qia Web Browser Libraries
-	- [NPMJS: `npm i qia-browser-libraries`](https://www.npmjs.com/package/qia-browser-libraries) (AudioPlayer, KeyboardShortcut, Layout; .d.ts types)
+	- [NPMJS: `npm i qia-browser-libraries`](https://www.npmjs.com/package/qia-browser-libraries) (AudioPlayer, KeyboardShortcut, Layout; TypeScript .d.ts types)
 	- [GitHub: Qia-Web-Browser-Libraries - as Documentation as well as Quickstart](https://github.com/johannhuang/Qia-Web-Browser-Libraries) (Guides and TypeDoc)
 	- [GitHub: Qia-Web-Browser-Libraries--Quickstart--Angular](https://github.com/johannhuang/Qia-Web-Browser-Libraries--Quickstart--Angular) (Outdated)
 - Qia Web Widgets
