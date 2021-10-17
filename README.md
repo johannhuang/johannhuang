@@ -8,11 +8,11 @@ Hej 👋 there, I'm Johann!
 Libraries
 
 - Qia Web Browser Libraries
-	- [NPMJS: `npm i qia-browser-libraries`](https://www.npmjs.com/package/qia-browser-libraries) (KeyboardShortcut, AudioPlayer; .d.ts)
+	- [NPMJS: `npm i qia-browser-libraries`](https://www.npmjs.com/package/qia-browser-libraries) (AudioPlayer, KeyboardShortcut, Layout; .d.ts)
 	- [GitHub: Qia-Web-Browser-Libraries - as Documentation as well as Quickstart](https://github.com/johannhuang/Qia-Web-Browser-Libraries) (Guides and TypeDoc)
 	- [GitHub: Qia-Web-Browser-Libraries--Quickstart--Angular](https://github.com/johannhuang/Qia-Web-Browser-Libraries--Quickstart--Angular)
 - Qia Web Widgets
-	- [NPMJS: `npm i qia-widgets`](https://www.npmjs.com/package/qia-widgets) (Paginator)
+	- [NPMJS: `npm i qia-widgets`](https://www.npmjs.com/package/qia-widgets) (MarkDownText, Paginator)
 	- [GitHub: Qia-Web-Widgets - as Documentation as well as Quickstart](https://github.com/johannhuang/Qia-Web-Widgets) (Guides and Storybook)
 	- [GitHub: Qia-Web-Widgets--Quickstart](https://github.com/johannhuang/Qia-Web-Widgets--Quickstart)
 	- [GitHub: Qia-Web-Widgets--Quickstart--React](https://github.com/johannhuang/Qia-Web-Widgets--Quickstart--React)
