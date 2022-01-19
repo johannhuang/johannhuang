@@ -24,17 +24,19 @@ Libraries
 Applications
 
 - Qia Audio Player
-	- [QiaSoft-Documents: Qia Audio Player](https://qiasoft-documents.johannhuang.com/qia-audio-player/)
+	- [QiaSoft-Docs: Qia Audio Player](https://qiasoft-docs.johannhuang.com/qia-audio-player/)
 	- [GitHub: Qia-Audio-Player-Codecs](https://github.com/johannhuang/Qia-Audio-Player-Codecs)
 - Qia mdx Reader
-	- [QiaSoft-Documents: Qia mdx Reader](https://qiasoft-documents.johannhuang.com/qia-mdx-reader/)
+	- [QiaSoft-Docs: Qia mdx Reader](https://qiasoft-docs.johannhuang.com/qia-mdx-reader/)
 
 ---
 
-GitHub Hosted Websites
+Websites Hosted on GitHub
 
-- <https://dictionaries.johannhuang.com/>
-	- [GitHub: dictionaries.johannhuang.com](https://github.com/johannhuang/dictionaries.johannhuang.com)
+- <https://qiasoft.johannhuang.com/dictionaries/>
+	- [GitHub: dictionaries.johannhuang.com](https://github.com/qiasoft/dictionaries)
+
+---
 
 Archived Projects
 
