@@ -34,7 +34,7 @@ Applications
 Websites Hosted on GitHub
 
 - <https://qiasoft.johannhuang.com/dictionaries/>
-	- [GitHub: dictionaries.johannhuang.com](https://github.com/qiasoft/dictionaries)
+	- [GitHub: qiasoft/dictionaries](https://github.com/qiasoft/dictionaries)
 
 ---
 
