@@ -10,13 +10,13 @@ Libraries
 - Qia Web Browser Libraries
 	- [NPMJS: `npm i qia-browser-libraries`](https://www.npmjs.com/package/qia-browser-libraries) (AudioPlayer, KeyboardShortcut, Layout; TypeScript .d.ts types)
 	- [GitHub: Qia-Web-Browser-Libraries - as Documentation as well as Quickstart](https://github.com/johannhuang/Qia-Web-Browser-Libraries) (Guides and TypeDoc)
-	- [GitHub: Qia-Web-Browser-Libraries--Quickstart--Angular](https://github.com/johannhuang/Qia-Web-Browser-Libraries--Quickstart--Angular) (Outdated)
+	- [GitHub: Qia-Web-Browser-Libraries--Quickstart--Angular](https://github.com/johannhuang/Qia-Web-Browser-Libraries--Quickstart--Angular) (Discontinued in 2021)
 - Qia Web Widgets
 	- [NPMJS: `npm i qia-widgets`](https://www.npmjs.com/package/qia-widgets) (MarkDownText, Paginator; Web components, React components)
 	- [GitHub: Qia-Web-Widgets - as Documentation as well as Quickstart](https://github.com/johannhuang/Qia-Web-Widgets) (Guides and Storybook)
-	- [GitHub: Qia-Web-Widgets--Quickstart](https://github.com/johannhuang/Qia-Web-Widgets--Quickstart)
-	- [GitHub: Qia-Web-Widgets--Quickstart--React](https://github.com/johannhuang/Qia-Web-Widgets--Quickstart--React)
-	- [GitHub: Qia-Web-Widgets--Quickstart--Angular](https://github.com/johannhuang/Qia-Web-Widgets--Quickstart--Angular)
+	- [GitHub: Qia-Web-Widgets--Quickstart](https://github.com/johannhuang/Qia-Web-Widgets--Quickstart) (Discontinued in 2021)
+	- [GitHub: Qia-Web-Widgets--Quickstart--React](https://github.com/johannhuang/Qia-Web-Widgets--Quickstart--React) (Discontinued in 2021)
+	- [GitHub: Qia-Web-Widgets--Quickstart--Angular](https://github.com/johannhuang/Qia-Web-Widgets--Quickstart--Angular) (Discontinued in 2021)
 - QiaJSLib - Number Converter
 	- [NPMJS: `npm i @johannhuang/number-converter`](https://www.npmjs.com/package/@johannhuang/number-converter)
 	- [GitHub: QiaJSLib--Number-Converter](https://github.com/johannhuang/QiaJSLib--Number-Converter)
