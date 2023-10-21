@@ -1,7 +1,7 @@
 Hej 👋 there, I'm Johann!
 
 - Website: <https://www.johannhuang.com>
-- Twitter: <https://twitter.com/johannhuang_com>
+- Mastodon: <https://mastodon.social/@johannhuang>
 
 ---
 
