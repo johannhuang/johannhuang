@@ -33,7 +33,7 @@ Applications
 
 Websites Hosted on GitHub
 
-- <https://qiasoft.johannhuang.com/dictionaries/>
+- <https://www.qiasoft.de/dictionaries/>
 	- [GitHub: qiasoft/dictionaries](https://github.com/qiasoft/dictionaries)
 
 ---
