@@ -1,4 +1,4 @@
-Hej 👋 there, I'm Johann!
+Hallo 👋 there, I'm Johann!
 
 * Website: <https://www.johannhuang.com>
 * Threads: <https://www.threads.net/@johannhuang_com>
@@ -19,4 +19,4 @@ Applications
 
 Libraries
 
-* NPM Packages are listed at https://www.npmjs.com/~johannhuang
+* NPM Packages are listed at <https://www.npmjs.com/~johannhuang>.
